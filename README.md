@@ -1,39 +1,58 @@
-<h1 align="center">𝕚𝕞_𝕒𝕓𝕚</h1>
+<h1 align="center" style="font-size: 4em;">𝕚𝕞_𝕒𝕓𝕚</h1>
 
 <p align="center">
-  <i>"Code isn’t just a few lines of logic — it’s a gateway to a whole new culture."</i><br>
-  <b>Maybe not the best, but definitely the most creative.</b>
+  <i>"Code isn't just syntax — it's a portal to new worlds."</i><br>
+  <strong>𝕚𝕞_𝕒𝕓𝕚</strong> — Not the best, just the most creative.
 </p>
 
 ---
 
-### 🧠 About Me
+### 🧬 Identity
 
-- 🚀 I code for fun — driven by curiosity, not routine  
-- 🧩 I enjoy building ideas that others haven't thought of yet  
-- ⚡ I believe creativity beats perfection
-
----
-
-### 🛠️ Skills & Technologies
-
-**Languages & Tools I play with:**
-
-Python, Java, JavaScript, HTML, PHP, Haskell, C, C++, C#, Ruby, Gem, Rust, Swift, Go,  
-SQL, Shell, PowerShell, TypeScript, Assembly, R, Lua, LaTeX, Perl
+- 🌀 I’m not here to follow trends — I’m here to make noise  
+- 🎮 Coding is my game, chaos is my fuel  
+- ✨ I build what others don't dare imagine  
+- 💣 I code for fun — if it’s boring, I don’t touch it
 
 ---
 
-### 📡 Contact & Links
+### ⚙️ Languages & Playground
 
-- Telegram Channel: [@im_abi_00](https://t.me/im_abi_00)
-
----
-
-### 🎨 Theme & Vision
-
-Dark, sleek & professional — painted in **purple, black**, and a splash of **red**.
+`Python`, `Java`, `C / C++ / C#`, `HTML`, `CSS`, `JavaScript`, `TypeScript`,  
+`PHP`, `Go`, `Rust`, `Ruby`, `Swift`, `Haskell`, `Perl`, `Shell`, `PowerShell`,  
+`SQL`, `R`, `Lua`, `Assembly`, `LaTeX`, `Gem`
 
 ---
 
-🔥 Stay tuned for more projects and experiments!
+### 🧪 Projects Are...
+
+- Spontaneous  
+- Fun-driven  
+- Creativity-fueled  
+- No boundaries, no templates
+
+---
+
+### 🎨 My Vibe
+
+> **Dark. Clean. Electric.**  
+> I breathe **black, purple, and red**.  
+> Code should glow like neon in the night.
+
+---
+
+### 📡 Connect
+
+- Telegram: [@im_abi_00](https://t.me/im_abi_00)
+
+---
+
+### ⏳ What's Next?
+
+Expect the unexpected.  
+Code that twists logic.  
+Ideas that don’t ask for permission.
+
+---
+
+<h3 align="center">Stay Weird. Stay Sharp. Stay 𝕚𝕞_𝕒𝕓𝕚.</h3>
