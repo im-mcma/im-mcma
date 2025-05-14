@@ -1,16 +1,16 @@
-## Hi there 👋
+# 𝕚𝕞_𝕒𝕓𝕚
 
-<!--
-**im-mcma/im-mcma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "دنیای کد ها چند تا خط کلمه نیست، برای من دروازه‌ای به فرهنگی جدید است."
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies  
+🚀 **Programming Languages:**  
+Python, Java, JavaScript, HTML, PHP, Haskell, C, C++, C#, Ruby, Gem, Rust, Swift, Go, SQL, Shell, Powershell, Typescript, Assembly, R, Lua, Latex, Perl  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📡 Contact & Links  
+📌 Telegram Channel: [@im_abi_00](https://t.me/im_abi_00)  
+
+## 🎨 Theme & Vision  
+🌑 **Dark, Sleek & Professional** with a blend of **Purple, Black & Red**  
+
+---
+🔥 Stay tuned for more projects and collaborations! 🔥
